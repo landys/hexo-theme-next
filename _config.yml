@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -32,10 +32,10 @@ canonical: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
-  #about: /about
+  categories: /categories
   archives: /archives
   tags: /tags
+  about: /about
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -65,8 +65,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
@@ -127,7 +127,9 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
+  GitHub: https://github.com/landys
+  StackOverflow: http://stackoverflow.com/users/2749114/landys
   #LinkLabel: Link
 
 
@@ -143,6 +145,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  StackOverflow: stackoverflow
 
 
 # Sidebar Avatar
@@ -260,7 +263,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: landys
 
 # Disqus
 #disqus_shortname:
@@ -281,7 +284,8 @@ mathjax:
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
+duoshuo_hotartical: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -289,7 +293,7 @@ mathjax:
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-87740547-1
 
 # CNZZ count
 #cnzz_siteid:
