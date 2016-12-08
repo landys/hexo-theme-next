@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "landys, java, python, cpp, php, 架构, 技术, 后端, 前端"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -66,8 +66,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -145,7 +145,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  StackOverflow: stackoverflow
+  StackOverflow: stack-overflow
 
 
 # Sidebar Avatar
