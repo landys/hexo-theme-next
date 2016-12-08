@@ -1,5 +1,13 @@
 # NexT
 
+## 本Fork修改要点
+
+1. 加快页面动画速度；
+2. 修改底部`Powered By`样式；
+3. 修改网站名称背景色，从黑色改为深灰色；
+4. 隐藏页面顶部黑色条；
+5. `_config.yml`上针对个人博客的配置。
+
 > 精于心，简于形
 
 <a href="http://notes.iissnan.com" target="_blank">在线预览 Preview</a> | <a href="http://theme-next.iissnan.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
